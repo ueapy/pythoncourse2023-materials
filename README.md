@@ -2,6 +2,8 @@ Content of [Aries](https://www.aries-dtp.ac.uk/) and [Cefas](https://www.cefas.c
 
 [Course website](<https://ueapy.github.io/pythoncourse2023-website>)
 
+**Please note that the content of the this repository and the course materials may not be finalised until Friday 2 June 2023.**
+
 Run on the cloud: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/pythoncourse2023-materials/main?urlpath=lab)
 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)]()
